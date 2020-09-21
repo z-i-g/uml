@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="dz_1" version="4">
+  <OBJECT>
+    <ID name="dz_1" mc="Standard.Package" uid="1bd72949-dede-4feb-b2eb-fc5def800fee"/>
+    <PID name="DZ_1" mc="Standard.Project" uid="5f043433-1ea9-4382-8aac-37cd056e0d3a"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[dz_1]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="MetalLeg" mc="Standard.Class" uid="735ce044-e391-42c2-a345-40ed4c00d8db"/>
+        <COMPID name="WoodenLeg" mc="Standard.Class" uid="63c5ca11-9e5e-4d08-9766-3b6221599a7c"/>
+        <COMPID name="Factory" mc="Standard.Class" uid="fb2398b3-d890-4513-b20a-3d51d8848f38"/>
+        <COMPID name="Table" mc="Standard.Class" uid="71d62859-0475-4a18-87ac-c1225e5065ea"/>
+        <COMPID name="IFurniture" mc="Standard.Interface" uid="53407bbc-d1ab-44f8-a786-b4f84b89bcf4"/>
+        <COMPID name="ILeg" mc="Standard.Interface" uid="32ad34cd-8bc4-4cba-b62a-5dfff89dd1c3"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="dz_1 Class diagram" mc="Standard.ClassDiagram" uid="18d22e3b-76b8-4a85-8c85-79a5173d07bb"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
